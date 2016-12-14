@@ -1,0 +1,24 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "linebreak-style": 0,
+    "import/no-extraneous-dependencies": ["error", {
+      "devDependencies": true,
+      "optionalDependencies": true
+    }]
+  },
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "experimentalObjectRestSpread": true,
+    "jsx": true
+  }
+}
