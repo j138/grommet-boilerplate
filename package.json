@@ -46,7 +46,7 @@
     "eslint-config-airbnb": "^13.0.0",
     "eslint-loader": "^1.6.1",
     "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
     "eslint-plugin-react": "^6.8.0",
     "file-loader": "^0.9.0",
     "html-webpack-plugin": "2.24.1",
@@ -58,7 +58,7 @@
     "webpack": "1.14.0",
     "webpack-dev-server": "^1.16.2",
     "webpack-hot-middleware": "^2.13.2",
-    "webpack-merge": "1.1.1"
+    "webpack-merge": "1.1.2"
   },
   "dependencies": {
     "browserify": "^13.1.1",
